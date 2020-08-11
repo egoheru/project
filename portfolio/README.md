@@ -1,1 +1,2 @@
-just added READme
+just added 
+check that out 
